@@ -84,5 +84,5 @@
 </style>
 
 <div class="footer">
-  <p>©Chandrika Gohain 2018<br>Coded by Dibakar Das</p>
+  <p>©Chandrika Gohain 2018<br>Coded by <a href="https://www.dibakardas.tk" target="_blank">Dibakar Das</a> </p>
 </div>
