@@ -17,9 +17,9 @@
 
 
 <h2 style="color:Purple;">সৰাপাহি</h2> <h4>[20/04/2018]</h4>
-<p style="color:LimeGreen;">ৰঙা গোলাপৰ ,
+<p style="color:LimeGreen;">ৰঙা গোলাপৰ ,<br><br>
 
-সৰা পাহিত ,<br>
+সৰা পাহিত ,<br><br>
 
 দীপ্ত বেদনাৰ আভা ।<br><br>
 
