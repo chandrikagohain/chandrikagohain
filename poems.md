@@ -35,7 +35,7 @@
 
 
 <h2>❤❤</h2> <h4>[13/04/2018]</h4>
-<p style="color:Yellow;">বসন্তৰ এটি আবেলি ,<br>br>
+<p style="color:Gold;">বসন্তৰ এটি আবেলি ,<br>br>
 
 ওলাবা এদিন,<br><br>
 
