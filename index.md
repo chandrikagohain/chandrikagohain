@@ -36,7 +36,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: blue;
+    background-color: SkyBlue;
     color: white;
     text-align: center;
 }
