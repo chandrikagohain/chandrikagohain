@@ -43,5 +43,5 @@ hs.src = ('//s10.histats.com/js15_as.js');
 </style>
 
 <div class="footer">
-  <p>©Chandrika Gohain 2018</p>
+  <p>©Chandrika Gohain 2018<br>Coded by Dibakar Das</p>
 </div>
