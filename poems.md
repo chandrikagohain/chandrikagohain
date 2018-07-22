@@ -58,7 +58,7 @@
 
 
 <h2 style="color:Red;">তুমি</h2> <h4>[11/04/2018]</h4>
-<p style="SkyBlue;">এজাক বতাহ হৈ বলা তুমি <br><br>
+<p style="color:SkyBlue;">এজাক বতাহ হৈ বলা তুমি <br><br>
 
 মোৰ হিয়াত, <br><br>
 
