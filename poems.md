@@ -77,12 +77,12 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: SkyBlue;
+    background-color: DeepSkyBlue;
     color: white;
     text-align: center;
 }
 </style>
 
 <div class="footer">
-  <p>©Chandrika Gohain 2018<br>Coded by <a href="https://www.dibakardas.tk" target="_blank">Dibakar Das</a> </p>
+  <p>©Chandrika Gohain 2018<br>Coded with &#x2764; by <a href="https://www.dibakardas.tk" target="_blank">Dibakar Das</a> </p>
 </div>
